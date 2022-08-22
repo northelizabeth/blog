@@ -1,4 +1,5 @@
 ---
+theme: minima
 Elizabeth North: "Welcome to my blog, please remember to exit through the gift shop."
 ---
 
