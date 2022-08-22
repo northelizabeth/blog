@@ -1,6 +1,6 @@
 ---
 theme: minima
-title: "Elizabeth North, Data Science Consultant"
+title: ""
 ---
 
 Dear Peer, 
