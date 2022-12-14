@@ -2,8 +2,7 @@ title: Elizabeth North
 author: Elizabeth North
 email: enorth@protonmail.com
 description: > # this means to ignore newlines until "baseurl:"
- Elizabeth North is a Data Science Consultant based in Brussels, Belgium and Amsterdam, The Netherlands. 
- She specializes in machine learning algorithms with an emphasis on NLP methods.
+ 
 
 # social links
 #twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
