@@ -3,11 +3,4 @@ theme: minima
 title: ""
 ---
 
-Hi there, 
-
-Welcome, and thanks for stopping by. Here you will find some hobby, learning, and interest projects I have worked on over the years. All my work is open access for an individual user - just cite the blog post where you find it. If you need help using some code, you can ask by email.
-
-Perhaps you might find something that inspires you!
-
-Cheers,  
-Elizabeth
+Elizabeth North is a research data scientist based in Brussels, Belgium and Amsterdam, the Netherlands. She is experienced in managing data science teams as well as company and public stakeholders. Specialized in strategy design for storytelling from complex data, she can provide you with data driven insights, performance assessment, and statistical modeling. In her personal life she enjoys volunteering her professional skills as a research data scientist in interests she cares about, especially towards climate literacy, economic equality, and housing for the future.
